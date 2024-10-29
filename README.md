@@ -1,4 +1,4 @@
-<img src="icon.svg" alt="Icon" width="150" height="150">
+<img src="./icon.svg" alt="Icon" width="150" height="150">
 
 # Monokai for [Logseq](http://logseq.com)
 
@@ -7,7 +7,7 @@
 > \[!NOTE\]
 > Choosing an account colour will override parts of this theme.
 
-<img src="screencap.png" alt="Screenshot">
+<img src="./screencap.png" alt="Screenshot">
 
 ## Install
 
